@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @prabhkesar123
-- 👀 I’m interested in ... Matrixology
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... kprabh@pm.me
+- 📫 How to reach me ... pmeepm@pm.me
 
 <!---
 prabhkesar123/prabhkesar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
