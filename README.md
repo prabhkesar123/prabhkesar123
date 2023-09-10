@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prabhkesar123
-- 📫 How to reach me ... pmeepm@pm.me
+- 👋 Hi, I’m Prabh Kesar
+- 🖥️ Working with python, javascript, ruby and c++ to make neural networks , web-apps and solving problems.
 
 <!---
 prabhkesar123/prabhkesar123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
